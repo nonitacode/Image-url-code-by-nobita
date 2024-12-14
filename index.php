@@ -1,7 +1,7 @@
 <?php
-// Imgur Image Uploader
-// by BIZ FACTORY
-// License: MIT License
+// IMGUR IMAGE UPLOADER
+// BY NOBITA
+// LICENSE: MIT LICENSE
 
 //CONFIGURATION
 define('imgur_client_id', 'b54cf411367fb00'); // your imgur client id, you can replace with your own, get it here: https://api.imgur.com/
